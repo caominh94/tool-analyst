@@ -807,7 +807,7 @@ else:  # Frequentist
         t = """
         <h3 class='frequentist_title'>Significant</h3>
         <img class='frequentist_icon'
-            src='https://github.com/caominh94/tool-analyst/blob/ca5afdbdd075be23f356caa33519f88d67c9ecfa/img/876fab6207f93c293ae77a70f188c402.gif'>
+            src='https://raw.githubusercontent.com/caominh94/tool-analyst/main/img/876fab6207f93c293ae77a70f188c402.gif'>
         """
         st.markdown(t, unsafe_allow_html=True)
 
@@ -839,7 +839,7 @@ else:  # Frequentist
         t = """
         <h3 class='frequentist_title'>Not significant</h3>
         <img class='frequentist_icon'
-            src='https://github.com/caominh94/tool-analyst/blob/45763d70c6858448e9ad05022210e268e49adda5/img/0ddfa8ceef2a0d22fe21296075c9da94.jpg'>
+            src='https://raw.githubusercontent.com/caominh94/tool-analyst/main/img/0ddfa8ceef2a0d22fe21296075c9da94.jpg'>
         """
         st.markdown(t, unsafe_allow_html=True)
 
