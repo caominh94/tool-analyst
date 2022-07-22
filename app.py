@@ -763,9 +763,13 @@ if method == "Bayesian":
         
         """
         ---
-        ### Recommended Reading
-        * [Minh Puzzle]
-            
+        ### Do you to puzzle with me?
+        ### [MINH PUZZLE]
+        *   Minh have 3 sisters:
+        *   Five is reading
+        *   Four is watching TV
+        *   What is the name of other person?!
+        ##   Have a nice day!!!!
         """
 
 
