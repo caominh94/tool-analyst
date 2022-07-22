@@ -761,16 +761,6 @@ if method == "Bayesian":
 
         b.plot_simulation_of_difference()
 
-        """
-        ---
-        ### Recommended Reading
-        * [Bayesian Methods for Hackers by Cameron Davidson-Pilon]\
-            (https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
-        * [Bayesian AB test calculator by AB Testguide]\
-            (https://abtestguide.com/bayesian/)
-        * [Beta distribution Wikipedia]\
-            (https://en.wikipedia.org/wiki/Beta_distribution)
-        """
 
     except ValueError:
 
