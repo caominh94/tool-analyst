@@ -760,6 +760,13 @@ if method == "Bayesian":
         st.text("")
 
         b.plot_simulation_of_difference()
+        
+        """
+        ---
+        ### Recommended Reading
+        * [Minh Puzzle]
+            
+        """
 
 
     except ValueError:
