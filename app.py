@@ -763,12 +763,12 @@ if method == "Bayesian":
         
         """
         ---
-        ### Do you to puzzle with me?
-        ### [MINH PUZZLE]
-        *   Minh have 3 sisters:
+        ### Do you want to puzzle with me?
+        ### [MINH's PUZZLE]
+        *   Minh has 3 sisters:
         *   Five is reading
         *   Four is watching TV
-        *   What is the name of other person?!
+        *   What is the name of the other person?!
         ##   Have a nice day!!!!
         """
 
